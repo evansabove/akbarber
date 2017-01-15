@@ -41,6 +41,6 @@
       }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDJ8BS-G0TOQAyNPxPxWcsQ53_JHrN_9M&amp;callback=initMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC8u14PIyC7JZY5kjZRXLSd-l3L6K13Q_M&amp;callback=initMap"></script>
 <?php include('scripts.php') ?>
 <?php include('footer.php') ?>
