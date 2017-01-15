@@ -43,7 +43,25 @@ nav a  {
 }
 
 .navbar-default {
-  border: none; //#92140C;
+  border: none;
   border-radius: 0;
   border-bottom: 1px solid #92140C;
+  color: #1E1E24;
+}
+
+ul.nav a {
+  color: #92140C;
+}
+
+#nav-container {
+  border-bottom: 2px solid #92140C;
+}
+
+#nav-container a:hover {
+  background-color: #E0E0E2;
+}
+
+#main {
+  padding-top: 80px;
+  padding-bottom: 20px;
 }
