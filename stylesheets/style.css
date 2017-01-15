@@ -1,0 +1,39 @@
+body {
+  background-color: #FFF8F0;
+}
+
+img.main-image {
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header {
+  padding: 50px 10px;
+  color: #FFF8F0;
+  font-size: 25px;
+  text-align: center;
+  background-color: #92140C;
+  border-bottom: 1px solid #92140C;
+  text-shadow: 0px -1px 0px #92140C;
+}
+
+nav.navbar {
+  background-color: #FFF8F0;
+}
+
+nav > .active {
+  background-color: #FFF8F0;
+}
+
+nav a  {
+  color: #FFF8F0;
+}
+
+.footer {
+  margin-top: 20px;
+  color: #FFF8F0;
+  background-color: #92140C;
+}
