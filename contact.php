@@ -2,7 +2,13 @@
 <?php include('navbar.php') ?>
 
 <div class="container">
-	<img src="img/ani.jpg" class="main-image"/>
+	<p>Address:</p>
+	<p>AK Barber<br />
+		2 Cork Place<br />
+		Upper Bristol Road<br />
+		Bath<br />
+		BA1 3BB
+	</p>
 </div>
 
 <?php include('scripts.php') ?>
