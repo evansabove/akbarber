@@ -17,6 +17,10 @@ img.main-image {
   text-align: center;
   background-color: #92140C;
   text-shadow: 0px -1px 0px #92140C;
+  margin-bottom: 0;
+  margin-top: 10px;
+  border-radius: 10px;
+
 }
 
 nav.navbar {
@@ -32,15 +36,12 @@ nav a  {
   color: #FFF8F0;
 }
 
-#header {
-  margin-bottom: 0;
-}
-
 .navbar-default {
   border: none;
   border-radius: 0;
   border-bottom: 1px solid #92140C;
   color: #1E1E24;
+  box-shadow: 0px 30px 40px rgba(0,0,0,.1);
 }
 
 ul.nav a {

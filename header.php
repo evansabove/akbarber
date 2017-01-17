@@ -19,7 +19,7 @@
     <body>
     	<div class="col-xs-1"></div>
     	<div class="col-xs-10">
-	    	<div class="panel panel-default header" id="header">
+	    	<div class="panel panel-default header">
 				<div class="panel-body">
 			    	<h1>A K Barber</h1>
 			    	<h4>Bath</h4>
