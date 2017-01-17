@@ -9,7 +9,7 @@
 	      		<img src="img/carousel/slide1.jpg" class="main-image">
 	    	</div>
 
-		    <div class="item">
+		    <!--<div class="item">
 			    <img src="img/carousel/slide2.jpg" class="main-image">
 	    	</div>
 
@@ -19,9 +19,10 @@
 
 	    	<div class="item">
 	    		<img src="img/carousel/slide4.jpg" class="main-image">
-	    	</div>
+	    	</div>-->
 	  	</div>
 	</div>
+
 </div>
 
 <?php include('scripts.php') ?>

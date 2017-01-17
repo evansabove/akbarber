@@ -32,12 +32,6 @@ nav a  {
   color: #FFF8F0;
 }
 
-.footer {
-  margin-top: 20px;
-  color: #FFF8F0;
-  background-color: #92140C;
-}
-
 #header {
   margin-bottom: 0;
 }
@@ -64,4 +58,16 @@ ul.nav a {
 #main {
   padding-top: 80px;
   padding-bottom: 20px;
+  min-height: 600px;
+}
+
+.footer {
+  padding-top: 10px; 
+  padding-bottom: 20px;
+  text-align: right;
+  border-top: 2px solid #92140C;
+}
+
+#map {
+  height: 500px;
 }

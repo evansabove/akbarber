@@ -12,17 +12,17 @@
 		</p>
 		<br />
 		<p><b>Opening Hours</b></p>
-		<p>Monday: 9:00 - 5:00<br/>
-			Tuesday: 9:00 - 5:00<br/>
-			Wednesday: 9:00 - 5:00<br/>
-			Thursday: 9:00 - 5:00<br/>
-			Friday: 9:00 - 5:00<br/>
-			Saturday: 9:00 - 5:00<br/>
-			Sunday: Closed<br/>
+		<p>Mon: 9:00 - 17:00<br/>
+			Tue: 9:00 - 17:00<br/>
+			Wed: 9:00 - 17:00<br/>
+			Thu: 9:00 - 17:00<br/>
+			Fri: 9:00 - 17:00<br/>
+			Sat: 9:00 - 17:00<br/>
+			Sun: Closed<br/>
 		</p>
 	</div>
 	<div class="col-xs-10">
-		<div id="map" style="height: 400px"></div>
+		<div id="map"></div>
 	</div>
 </div>
 
