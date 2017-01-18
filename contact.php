@@ -12,14 +12,17 @@
 		</p>
 		<br />
 		<p><b>Opening Hours</b></p>
-		<p>Mon: 9:00 - 17:00<br/>
-			Tue: 9:00 - 17:00<br/>
-			Wed: 9:00 - 17:00<br/>
-			Thu: 9:00 - 17:00<br/>
-			Fri: 9:00 - 17:00<br/>
-			Sat: 9:00 - 17:00<br/>
-			Sun: Closed<br/>
+		<p>Mon: 08:30 - 18:00<br/>
+			Tue: 08:30 - 18:00<br/>
+			Wed: 08:30 - 18:00<br/>
+			Thu: 08:30 - 18:00<br/>
+			Fri: 08:30 - 18:00<br/>
+			Sat: 09:00 - 18:00<br/>
+			Sun: 10:00 - 15:00<br/>
 		</p>
+		<br />
+		<p><b>Telephone</b></p>
+		<p>07909 815412</p>
 	</div>
 	<div class="col-xs-10">
 		<div id="map"></div>
