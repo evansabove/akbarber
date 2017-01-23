@@ -20,6 +20,10 @@
 	    	<div class="item">
 	    		<img src="img/carousel/slide4.jpg" class="main-image">
 	    	</div>
+
+	    	<div class="item">
+	    		<img src="img/carousel/slide5.jpg" class="main-image">
+	    	</div>
 	  	</div>
 	</div>
 
